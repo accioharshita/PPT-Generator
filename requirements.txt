@@ -38,7 +38,6 @@ docker==7.1.0
 docstring-parser==0.16
 docx2txt==0.8
 durationpy==0.9
--e file:///G:/PPT%20Generator/edu_flow_v2
 embedchain==0.1.126
 et-xmlfile==2.0.0
 executing==2.1.0
